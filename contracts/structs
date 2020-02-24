@@ -8,3 +8,7 @@ contract StateVariablesAndFunctions {
     //set statement function
     function setStatement(string _statement) public  {
         // statement 
+        
+        
+    }
+}
